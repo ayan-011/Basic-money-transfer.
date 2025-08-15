@@ -32,4 +32,5 @@ Users can **sign up, log in, view their balance, and transfer money** to other r
 
 ## 📂 Project Structure
 
-<img src="./assets/img.png" alt="Dashboard" width="500"/>
+<img src="https://github.com/ayan-011/Basic-money-transfer./blob/main/frontend/public/img.png?raw=true" width="500"/>
+
