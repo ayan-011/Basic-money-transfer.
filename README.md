@@ -32,4 +32,4 @@ Users can **sign up, log in, view their balance, and transfer money** to other r
 
 ## 📂 Project Structure
 
-<img src="./public/img.png" alt="Dashboard" width="500"/>
+<img src="./assets/img.png" alt="Dashboard" width="500"/>
